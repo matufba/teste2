@@ -7,3 +7,5 @@
 ### Título Nível 3
 
 $$e^{i\theta}+1=0$$
+
+Texto em *itálico*.
